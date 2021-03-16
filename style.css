@@ -394,8 +394,6 @@ nav .menu ul li:hover
 {
     
     margin-bottom: 30px;
-    display: flex;
-    justify-content: space-between;
 }
 .write h3
 {
